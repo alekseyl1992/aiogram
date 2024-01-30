@@ -59,10 +59,11 @@ setup(
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
         'Topic :: Software Development :: Libraries :: Application Frameworks',
     ],
     install_requires=[
-        'aiohttp>=3.8.0,<3.9.0',
+        'aiohttp>=3.8.0,<4.0.0',
         'Babel>=2.9.1,<2.10.0',
         'certifi>=2021.10.8',
         'magic-filter>=1.0.9',
